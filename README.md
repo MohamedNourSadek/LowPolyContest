@@ -10,7 +10,7 @@ A client on freelancer.com requested a contest where you should make a low poly 
 
 ## FAQ
 
-#### How may hours the current state of the prototype took?
+#### How may hours the current state of the project took?
 
 20 Hours.
 
